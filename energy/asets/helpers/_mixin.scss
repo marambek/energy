@@ -1,0 +1,6 @@
+@mixin font ($tree,$ser,$bin){
+    font-family: 'Montserrat';
+    font-weight: $tree;
+    font-size:$ser ;
+    color: $bin;
+}
